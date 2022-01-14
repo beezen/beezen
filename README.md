@@ -8,7 +8,7 @@
   </h2>
   <p>嗨！ 我是 beezen, 生活在中国杭州的一位前端开发工程师。</p>
   <p>涉猎于跨端技术，前端工程化，前端性能优化，小程序框架开发。</p>
-  <div style="display: none">
+  <div>
     <img src="https://img.shields.io/github/followers/beezen" />
     <img src="https://img.shields.io/github/stars/beezen" />
     <img
@@ -21,19 +21,19 @@
   <div>
     <ul>
       <li>
-        <a href="https://www.dongbizhen.com/categories/Taro/"
+        <a href="https://dongbizhen.com/categories/Taro/"
           >🙏 Taro 跨端实践系列</a
         >
       </li>
       <li>
-        <a href="https://www.dongbizhen.com/categories/GMU/"
+        <a href="https://dongbizhen.com/categories/GMU/"
           >🙏 GMU 小程序系列</a
         >
       </li>
       <li>
         <a
-          href="https://www.dongbizhen.com/categories/%E6%B7%B7%E5%90%88%E5%BC%80%E5%8F%91/"
-          >🙏 混合开发系列</a
+          href="https://dongbizhen.com/categories/%E8%B7%A8%E7%AB%AF%E5%BC%80%E5%8F%91/"
+          >🙏 跨端开发系列</a
         >
       </li>
     </ul>
