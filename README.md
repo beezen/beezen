@@ -6,8 +6,9 @@
       <a href="https://dongbizhen.com/about/">About</a>
     </center>
   </h2>
-  <p>嗨！ 我是 beezen, 生活在中国杭州的一位前端开发工程师。</p>
-  <p>涉猎于跨端技术，前端工程化，前端性能优化，小程序框架开发。</p>
+  <p>嗨！ 我是 beezen，生活在中国美丽杭州的一位前端 er。</p>
+  <p>涉猎跨端技术方向，前端工程化，前端性能优化，小程序框架。</p>
+  <p>王者荣耀全能选手，会烧饭的工程师，台球爱好者。</p>
   <div>
     <img src="https://img.shields.io/github/followers/beezen" />
     <img src="https://img.shields.io/github/stars/beezen" />
@@ -20,20 +21,38 @@
   </h2>
   <div>
     <ul>
+     <li>
+        <a
+          href="https://dongbizhen.com/categories/%E8%B7%A8%E7%AB%AF%E5%BC%80%E5%8F%91/"
+          >🙏 跨端开发</a
+        >
+      </li>
       <li>
         <a href="https://dongbizhen.com/categories/Taro/"
-          >🙏 Taro 跨端实践系列</a
+          >🙏 Taro</a
         >
       </li>
       <li>
         <a href="https://dongbizhen.com/categories/GMU/"
-          >🙏 GMU 小程序系列</a
+          >🙏 GMU</a
         >
       </li>
       <li>
         <a
-          href="https://dongbizhen.com/categories/%E8%B7%A8%E7%AB%AF%E5%BC%80%E5%8F%91/"
-          >🙏 跨端开发系列</a
+          href="https://dongbizhen.com/categories/Nucm/"
+          >🙏 Nucm</a
+        >
+      </li>
+      <li>
+        <a
+          href="https://dongbizhen.com/categories/%E5%9F%8B%E7%82%B9/"
+          >🙏 埋点</a
+        >
+      </li>
+      <li>
+        <a
+          href="https://dongbizhen.com/categories/javascript/"
+          >🙏 Javascript</a
         >
       </li>
     </ul>
