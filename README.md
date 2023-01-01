@@ -10,8 +10,6 @@
   <p>涉猎跨端技术方向，前端工程化，前端性能优化，小程序框架。</p>
   <p>王者荣耀全能选手，会烧饭的工程师，台球爱好者。</p>
   <div>
-    <img src="https://img.shields.io/github/followers/beezen" />
-    <img src="https://img.shields.io/github/stars/beezen" />
     <img
       src="https://visitor-badge.laobi.icu/badge?page_id=beezen.beezen.README.md"
     />
