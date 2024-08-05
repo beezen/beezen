@@ -1,9 +1,8 @@
 <div align="center">
-  <a href="https://git.io/typing-svg"><img
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=2000&size=40&pause=1000&color=369E9E&background=2A6AD400&center=true&vCenter=true&random=false&width=500&height=60&lines=JUST+DO+IT%EF%BC%81;%E9%9D%92%E5%B1%B1%E4%B8%8D%E6%94%B9%EF%BC%8C%E7%BB%BF%E6%B0%B4%E9%95%BF%E6%B5%81"
-      alt="Typing SVG" /></a>
+ <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=2000&size=40&duration=1500&pause=2000&color=218BFF&center=true&vCenter=true&random=false&width=500&lines=JUST+DO+IT!;%E9%9D%92%E5%B1%B1%E4%B8%8D%E6%94%B9%EF%BC%8C%E7%BB%BF%E6%B0%B4%E9%95%BF%E6%B5%81" alt="Typing SVG" />
   <img src="https://cdn.jsdelivr.net/gh/beezen/beezen@main/assets/top_img.gif" />
   <h2>
+    <span>👉️</span>
     <a href="https://dongbizhen.com">博客</a> |
     <a href="https://juejin.cn/user/3808364011458759">掘金</a> |
     <a href="https://dongbizhen.com/about/">About</a>
@@ -12,8 +11,8 @@
 <h2>About Me</h2>
 
 <p>嗨！我是方长，同时也是 Beezen，是一名生活在中国美丽杭州的前端工程师。</p>
-<p>擅长跨端技术，熟练掌握前端工程化、性能优化，熟悉小程序框架。</p>
-<p>荣获称号王者荣耀全能选手，会烧饭的工程师，台球健将。</p>
+<p>我对跨端技术、小程序引擎、性能优化和前端工程化有着深入的研究。</p>
+<p>除此之外，我还是一名《王者荣耀》的全能选手，热爱烹饪的工程师。业余时间，我喜欢打台球。</p>
 
 <div>
   <img src="https://visitor-badge.laobi.icu/badge?page_id=beezen.beezen.README.md" />
@@ -47,7 +46,7 @@
       height="165" />
   </div>
 
-  <img
+<img
     src="https://github-profile-trophy.vercel.app/?username=beezen&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true"
     alt="" />
 
